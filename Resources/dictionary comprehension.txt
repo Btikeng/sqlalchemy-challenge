@@ -1,0 +1,5 @@
+    {male: female for male, female in tuple(male_list, female_list)}
+    
+    d = {}
+    for male, female in tuple(male_list,female_list):
+        d[male] = female
